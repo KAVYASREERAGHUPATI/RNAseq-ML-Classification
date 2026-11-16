@@ -1,0 +1,36 @@
+Model,Fold,Train_N,Test_N,Balanced_Accuracy
+Logistic Regression,1,48,12,0.8333333333333333
+Logistic Regression,2,48,12,0.9166666666666667
+Logistic Regression,3,48,12,1.0
+Logistic Regression,4,48,12,1.0
+Logistic Regression,5,48,12,1.0
+Linear SVM,1,48,12,0.8333333333333333
+Linear SVM,2,48,12,0.9166666666666667
+Linear SVM,3,48,12,1.0
+Linear SVM,4,48,12,1.0
+Linear SVM,5,48,12,1.0
+Random Forest,1,48,12,0.8333333333333333
+Random Forest,2,48,12,0.9166666666666667
+Random Forest,3,48,12,1.0
+Random Forest,4,48,12,1.0
+Random Forest,5,48,12,1.0
+XGBoost,1,48,12,0.9166666666666667
+XGBoost,2,48,12,0.9166666666666667
+XGBoost,3,48,12,1.0
+XGBoost,4,48,12,1.0
+XGBoost,5,48,12,1.0
+KNN,1,48,12,0.8333333333333333
+KNN,2,48,12,0.9166666666666667
+KNN,3,48,12,1.0
+KNN,4,48,12,1.0
+KNN,5,48,12,0.8333333333333333
+Decision Tree,1,48,12,0.9166666666666667
+Decision Tree,2,48,12,0.9166666666666667
+Decision Tree,3,48,12,0.9166666666666667
+Decision Tree,4,48,12,1.0
+Decision Tree,5,48,12,1.0
+Gaussian Naive Bayes,1,48,12,0.8333333333333333
+Gaussian Naive Bayes,2,48,12,0.9166666666666667
+Gaussian Naive Bayes,3,48,12,1.0
+Gaussian Naive Bayes,4,48,12,1.0
+Gaussian Naive Bayes,5,48,12,1.0

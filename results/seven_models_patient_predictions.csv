@@ -1,0 +1,421 @@
+Model,Fold,Patient_ID,Actual,Predicted,Responder_Probability
+Logistic Regression,5,Sample_001,0,0,0.2700459439025711
+Logistic Regression,1,Sample_002,1,0,0.40582532270858745
+Logistic Regression,3,Sample_003,0,0,0.2906479862991974
+Logistic Regression,4,Sample_004,0,0,0.3250347653212232
+Logistic Regression,3,Sample_005,0,0,0.25469383737197815
+Logistic Regression,2,Sample_006,0,0,0.27186505071616923
+Logistic Regression,2,Sample_007,0,0,0.24383956864889308
+Logistic Regression,1,Sample_008,1,1,0.7988442329696384
+Logistic Regression,4,Sample_009,1,1,0.6174591676237656
+Logistic Regression,5,Sample_010,1,1,0.7890219691670222
+Logistic Regression,3,Sample_011,1,1,0.6331286416837023
+Logistic Regression,5,Sample_012,0,0,0.2447161232105426
+Logistic Regression,2,Sample_013,1,1,0.642322280945745
+Logistic Regression,5,Sample_014,0,0,0.3299565842125213
+Logistic Regression,3,Sample_015,0,0,0.31156183190099956
+Logistic Regression,4,Sample_016,1,1,0.6077831923482245
+Logistic Regression,2,Sample_017,1,1,0.9218917498034966
+Logistic Regression,1,Sample_018,0,0,0.2272539900415215
+Logistic Regression,3,Sample_019,1,1,0.7707641349723859
+Logistic Regression,5,Sample_020,1,1,0.857579418480429
+Logistic Regression,5,Sample_021,1,1,0.8102758378832474
+Logistic Regression,4,Sample_022,1,1,0.7616342534553364
+Logistic Regression,3,Sample_023,1,1,0.5718131437808058
+Logistic Regression,1,Sample_024,0,0,0.27602906599647153
+Logistic Regression,3,Sample_025,0,0,0.20357711307013843
+Logistic Regression,1,Sample_026,0,0,0.2974866356577253
+Logistic Regression,1,Sample_027,1,1,0.6980485210282804
+Logistic Regression,3,Sample_028,0,0,0.24387386956227092
+Logistic Regression,1,Sample_029,1,1,0.6196097790295496
+Logistic Regression,2,Sample_030,0,0,0.25702897768985056
+Logistic Regression,3,Sample_031,1,1,0.6658947726655361
+Logistic Regression,4,Sample_032,0,0,0.24599309476326536
+Logistic Regression,1,Sample_033,0,0,0.29436518869045586
+Logistic Regression,1,Sample_034,0,0,0.31877189176612364
+Logistic Regression,2,Sample_035,1,1,0.6467822159642302
+Logistic Regression,2,Sample_036,1,1,0.8531926610484086
+Logistic Regression,5,Sample_037,0,0,0.23066180018232987
+Logistic Regression,4,Sample_038,1,1,0.6656988537892282
+Logistic Regression,1,Sample_039,1,0,0.28353196096490485
+Logistic Regression,1,Sample_040,0,0,0.29518340803824555
+Logistic Regression,1,Sample_041,1,1,0.7596291691550175
+Logistic Regression,4,Sample_042,0,0,0.3070901758341965
+Logistic Regression,4,Sample_043,1,1,0.8700431784206487
+Logistic Regression,2,Sample_044,1,1,0.7102482115344582
+Logistic Regression,5,Sample_045,0,0,0.37583636621129274
+Logistic Regression,4,Sample_046,0,0,0.2535483531757945
+Logistic Regression,4,Sample_047,1,1,0.8048910160221797
+Logistic Regression,5,Sample_048,0,0,0.27301258763690617
+Logistic Regression,5,Sample_049,1,1,0.9152425267611111
+Logistic Regression,3,Sample_050,1,1,0.6933930156371431
+Logistic Regression,4,Sample_051,0,0,0.33269247123689566
+Logistic Regression,3,Sample_052,1,1,0.7560022825071884
+Logistic Regression,2,Sample_053,0,0,0.24967023680791253
+Logistic Regression,5,Sample_054,1,1,0.7605484815927858
+Logistic Regression,2,Sample_055,0,0,0.31586627472920314
+Logistic Regression,5,Sample_056,1,1,0.8910602232492968
+Logistic Regression,2,Sample_057,1,0,0.3642720891104108
+Logistic Regression,3,Sample_058,0,0,0.289617668235207
+Logistic Regression,4,Sample_059,0,0,0.2807551820281135
+Logistic Regression,2,Sample_060,0,0,0.2593151049009472
+Linear SVM,5,Sample_001,0,0,0.0726783975090486
+Linear SVM,1,Sample_002,1,0,0.3965057339350894
+Linear SVM,3,Sample_003,0,0,0.12352459434552839
+Linear SVM,4,Sample_004,0,0,0.2102797165307373
+Linear SVM,3,Sample_005,0,0,0.08735366425569135
+Linear SVM,2,Sample_006,0,0,0.08795908889280987
+Linear SVM,2,Sample_007,0,0,0.06461712148744371
+Linear SVM,1,Sample_008,1,1,0.9919169817374277
+Linear SVM,4,Sample_009,1,1,0.8878779468698992
+Linear SVM,5,Sample_010,1,1,0.9954521449826819
+Linear SVM,3,Sample_011,1,1,0.9434938295632302
+Linear SVM,5,Sample_012,0,0,0.05346478015214527
+Linear SVM,2,Sample_013,1,1,0.9486066545029832
+Linear SVM,5,Sample_014,0,0,0.21287833410177026
+Linear SVM,3,Sample_015,0,0,0.152681406008245
+Linear SVM,4,Sample_016,1,1,0.8971066054203535
+Linear SVM,2,Sample_017,1,1,0.9999998748262928
+Linear SVM,1,Sample_018,0,0,0.05776357700039251
+Linear SVM,3,Sample_019,1,1,0.9914020957967401
+Linear SVM,5,Sample_020,1,1,0.9999971865235154
+Linear SVM,5,Sample_021,1,1,0.9968873542642793
+Linear SVM,4,Sample_022,1,1,0.9877853068466681
+Linear SVM,3,Sample_023,1,1,0.8516179204633002
+Linear SVM,1,Sample_024,0,0,0.12609015821132177
+Linear SVM,3,Sample_025,0,0,0.037833965481221164
+Linear SVM,1,Sample_026,0,0,0.13842263623517498
+Linear SVM,1,Sample_027,1,1,0.9691514884388367
+Linear SVM,3,Sample_028,0,0,0.06456396806602172
+Linear SVM,1,Sample_029,1,1,0.8847480585402863
+Linear SVM,2,Sample_030,0,0,0.09041253701263569
+Linear SVM,3,Sample_031,1,1,0.946086357236822
+Linear SVM,4,Sample_032,0,0,0.07801416746195328
+Linear SVM,1,Sample_033,0,0,0.11876223762456901
+Linear SVM,1,Sample_034,0,0,0.1861582707015128
+Linear SVM,2,Sample_035,1,1,0.9573470719709781
+Linear SVM,2,Sample_036,1,1,0.9999904047260018
+Linear SVM,5,Sample_037,0,0,0.04436389744519361
+Linear SVM,4,Sample_038,1,1,0.949327234886065
+Linear SVM,1,Sample_039,1,0,0.12624630268242498
+Linear SVM,1,Sample_040,0,0,0.15267871592538462
+Linear SVM,1,Sample_041,1,1,0.9848360163654232
+Linear SVM,4,Sample_042,0,0,0.17348165516600142
+Linear SVM,4,Sample_043,1,1,0.9999943630822524
+Linear SVM,2,Sample_044,1,1,0.9811003201008036
+Linear SVM,5,Sample_045,0,0,0.35677003307045063
+Linear SVM,4,Sample_046,0,0,0.08831336926535466
+Linear SVM,4,Sample_047,1,1,0.9937799332446713
+Linear SVM,5,Sample_048,0,0,0.0845496221508593
+Linear SVM,5,Sample_049,1,1,0.9999999595516867
+Linear SVM,3,Sample_050,1,1,0.9732773454640582
+Linear SVM,4,Sample_051,0,0,0.19277635707752055
+Linear SVM,3,Sample_052,1,1,0.9890071877366373
+Linear SVM,2,Sample_053,0,0,0.06641012880499458
+Linear SVM,5,Sample_054,1,1,0.9918114311395299
+Linear SVM,2,Sample_055,0,0,0.17868790510443028
+Linear SVM,5,Sample_056,1,1,0.9999996612378887
+Linear SVM,2,Sample_057,1,0,0.2843353334347627
+Linear SVM,3,Sample_058,0,0,0.14193685126792524
+Linear SVM,4,Sample_059,0,0,0.11028962671671821
+Linear SVM,2,Sample_060,0,0,0.10460643665298608
+Random Forest,5,Sample_001,0,0,0.0
+Random Forest,1,Sample_002,1,0,0.4
+Random Forest,3,Sample_003,0,0,0.0
+Random Forest,4,Sample_004,0,0,0.05
+Random Forest,3,Sample_005,0,0,0.15
+Random Forest,2,Sample_006,0,0,0.0
+Random Forest,2,Sample_007,0,0,0.05
+Random Forest,1,Sample_008,1,1,1.0
+Random Forest,4,Sample_009,1,1,1.0
+Random Forest,5,Sample_010,1,1,1.0
+Random Forest,3,Sample_011,1,1,1.0
+Random Forest,5,Sample_012,0,0,0.0
+Random Forest,2,Sample_013,1,1,0.95
+Random Forest,5,Sample_014,0,0,0.15
+Random Forest,3,Sample_015,0,0,0.1
+Random Forest,4,Sample_016,1,1,0.9
+Random Forest,2,Sample_017,1,1,1.0
+Random Forest,1,Sample_018,0,0,0.1
+Random Forest,3,Sample_019,1,1,1.0
+Random Forest,5,Sample_020,1,1,1.0
+Random Forest,5,Sample_021,1,1,1.0
+Random Forest,4,Sample_022,1,1,0.95
+Random Forest,3,Sample_023,1,1,1.0
+Random Forest,1,Sample_024,0,0,0.0
+Random Forest,3,Sample_025,0,0,0.0725
+Random Forest,1,Sample_026,0,0,0.05
+Random Forest,1,Sample_027,1,1,1.0
+Random Forest,3,Sample_028,0,0,0.1
+Random Forest,1,Sample_029,1,1,0.9
+Random Forest,2,Sample_030,0,0,0.1
+Random Forest,3,Sample_031,1,1,1.0
+Random Forest,4,Sample_032,0,0,0.1
+Random Forest,1,Sample_033,0,0,0.0
+Random Forest,1,Sample_034,0,0,0.0
+Random Forest,2,Sample_035,1,1,0.95
+Random Forest,2,Sample_036,1,1,1.0
+Random Forest,5,Sample_037,0,0,0.2
+Random Forest,4,Sample_038,1,1,0.95
+Random Forest,1,Sample_039,1,0,0.1
+Random Forest,1,Sample_040,0,0,0.0
+Random Forest,1,Sample_041,1,1,1.0
+Random Forest,4,Sample_042,0,0,0.05
+Random Forest,4,Sample_043,1,1,1.0
+Random Forest,2,Sample_044,1,1,0.95
+Random Forest,5,Sample_045,0,0,0.2
+Random Forest,4,Sample_046,0,0,0.2
+Random Forest,4,Sample_047,1,1,1.0
+Random Forest,5,Sample_048,0,0,0.15
+Random Forest,5,Sample_049,1,1,1.0
+Random Forest,3,Sample_050,1,1,1.0
+Random Forest,4,Sample_051,0,0,0.35
+Random Forest,3,Sample_052,1,1,1.0
+Random Forest,2,Sample_053,0,0,0.0
+Random Forest,5,Sample_054,1,1,1.0
+Random Forest,2,Sample_055,0,0,0.25
+Random Forest,5,Sample_056,1,1,1.0
+Random Forest,2,Sample_057,1,0,0.1
+Random Forest,3,Sample_058,0,0,0.4
+Random Forest,4,Sample_059,0,0,0.05
+Random Forest,2,Sample_060,0,0,0.0
+XGBoost,5,Sample_001,0,0,0.034662481397390366
+XGBoost,1,Sample_002,1,1,0.9574415683746338
+XGBoost,3,Sample_003,0,0,0.03472885489463806
+XGBoost,4,Sample_004,0,0,0.034644052386283875
+XGBoost,3,Sample_005,0,0,0.03472885489463806
+XGBoost,2,Sample_006,0,0,0.042558446526527405
+XGBoost,2,Sample_007,0,0,0.042558446526527405
+XGBoost,1,Sample_008,1,1,0.9574415683746338
+XGBoost,4,Sample_009,1,1,0.9729095697402954
+XGBoost,5,Sample_010,1,1,0.9728395938873291
+XGBoost,3,Sample_011,1,1,0.9725924730300903
+XGBoost,5,Sample_012,0,0,0.034662481397390366
+XGBoost,2,Sample_013,1,1,0.9574415683746338
+XGBoost,5,Sample_014,0,0,0.04312365502119064
+XGBoost,3,Sample_015,0,0,0.03472885489463806
+XGBoost,4,Sample_016,1,1,0.9729095697402954
+XGBoost,2,Sample_017,1,1,0.9574415683746338
+XGBoost,1,Sample_018,0,0,0.042558446526527405
+XGBoost,3,Sample_019,1,1,0.9725924730300903
+XGBoost,5,Sample_020,1,1,0.9728395938873291
+XGBoost,5,Sample_021,1,1,0.9728395938873291
+XGBoost,4,Sample_022,1,1,0.9729095697402954
+XGBoost,3,Sample_023,1,1,0.9725924730300903
+XGBoost,1,Sample_024,0,0,0.042558446526527405
+XGBoost,3,Sample_025,0,0,0.03472885489463806
+XGBoost,1,Sample_026,0,0,0.042558446526527405
+XGBoost,1,Sample_027,1,1,0.9574415683746338
+XGBoost,3,Sample_028,0,0,0.03472885489463806
+XGBoost,1,Sample_029,1,1,0.9574415683746338
+XGBoost,2,Sample_030,0,0,0.042558446526527405
+XGBoost,3,Sample_031,1,1,0.9725924730300903
+XGBoost,4,Sample_032,0,0,0.034644052386283875
+XGBoost,1,Sample_033,0,0,0.042558446526527405
+XGBoost,1,Sample_034,0,0,0.042558446526527405
+XGBoost,2,Sample_035,1,1,0.9574415683746338
+XGBoost,2,Sample_036,1,1,0.9574415683746338
+XGBoost,5,Sample_037,0,0,0.04312365502119064
+XGBoost,4,Sample_038,1,1,0.9729095697402954
+XGBoost,1,Sample_039,1,0,0.042558446526527405
+XGBoost,1,Sample_040,0,0,0.042558446526527405
+XGBoost,1,Sample_041,1,1,0.9574415683746338
+XGBoost,4,Sample_042,0,0,0.034644052386283875
+XGBoost,4,Sample_043,1,1,0.9729095697402954
+XGBoost,2,Sample_044,1,1,0.9574415683746338
+XGBoost,5,Sample_045,0,0,0.034662481397390366
+XGBoost,4,Sample_046,0,0,0.04323315992951393
+XGBoost,4,Sample_047,1,1,0.9729095697402954
+XGBoost,5,Sample_048,0,0,0.04312365502119064
+XGBoost,5,Sample_049,1,1,0.9728395938873291
+XGBoost,3,Sample_050,1,1,0.9725924730300903
+XGBoost,4,Sample_051,0,0,0.04323315992951393
+XGBoost,3,Sample_052,1,1,0.9725924730300903
+XGBoost,2,Sample_053,0,0,0.042558446526527405
+XGBoost,5,Sample_054,1,1,0.9728395938873291
+XGBoost,2,Sample_055,0,0,0.042558446526527405
+XGBoost,5,Sample_056,1,1,0.9728395938873291
+XGBoost,2,Sample_057,1,0,0.042558446526527405
+XGBoost,3,Sample_058,0,0,0.03472885489463806
+XGBoost,4,Sample_059,0,0,0.034644052386283875
+XGBoost,2,Sample_060,0,0,0.042558446526527405
+KNN,5,Sample_001,0,0,0.0
+KNN,1,Sample_002,1,0,0.3333333333333333
+KNN,3,Sample_003,0,0,0.0
+KNN,4,Sample_004,0,0,0.3333333333333333
+KNN,3,Sample_005,0,0,0.0
+KNN,2,Sample_006,0,0,0.0
+KNN,2,Sample_007,0,0,0.0
+KNN,1,Sample_008,1,1,1.0
+KNN,4,Sample_009,1,1,1.0
+KNN,5,Sample_010,1,1,1.0
+KNN,3,Sample_011,1,1,1.0
+KNN,5,Sample_012,0,0,0.0
+KNN,2,Sample_013,1,1,1.0
+KNN,5,Sample_014,0,1,0.6666666666666666
+KNN,3,Sample_015,0,0,0.0
+KNN,4,Sample_016,1,1,1.0
+KNN,2,Sample_017,1,1,1.0
+KNN,1,Sample_018,0,0,0.0
+KNN,3,Sample_019,1,1,1.0
+KNN,5,Sample_020,1,1,1.0
+KNN,5,Sample_021,1,1,1.0
+KNN,4,Sample_022,1,1,1.0
+KNN,3,Sample_023,1,1,1.0
+KNN,1,Sample_024,0,0,0.0
+KNN,3,Sample_025,0,0,0.0
+KNN,1,Sample_026,0,0,0.0
+KNN,1,Sample_027,1,1,1.0
+KNN,3,Sample_028,0,0,0.3333333333333333
+KNN,1,Sample_029,1,1,1.0
+KNN,2,Sample_030,0,0,0.0
+KNN,3,Sample_031,1,1,1.0
+KNN,4,Sample_032,0,0,0.0
+KNN,1,Sample_033,0,0,0.0
+KNN,1,Sample_034,0,0,0.0
+KNN,2,Sample_035,1,1,1.0
+KNN,2,Sample_036,1,1,1.0
+KNN,5,Sample_037,0,0,0.0
+KNN,4,Sample_038,1,1,1.0
+KNN,1,Sample_039,1,0,0.0
+KNN,1,Sample_040,0,0,0.0
+KNN,1,Sample_041,1,1,1.0
+KNN,4,Sample_042,0,0,0.0
+KNN,4,Sample_043,1,1,1.0
+KNN,2,Sample_044,1,1,1.0
+KNN,5,Sample_045,0,1,0.6666666666666666
+KNN,4,Sample_046,0,0,0.0
+KNN,4,Sample_047,1,1,1.0
+KNN,5,Sample_048,0,0,0.0
+KNN,5,Sample_049,1,1,1.0
+KNN,3,Sample_050,1,1,1.0
+KNN,4,Sample_051,0,0,0.3333333333333333
+KNN,3,Sample_052,1,1,1.0
+KNN,2,Sample_053,0,0,0.0
+KNN,5,Sample_054,1,1,1.0
+KNN,2,Sample_055,0,0,0.0
+KNN,5,Sample_056,1,1,1.0
+KNN,2,Sample_057,1,0,0.0
+KNN,3,Sample_058,0,0,0.0
+KNN,4,Sample_059,0,0,0.3333333333333333
+KNN,2,Sample_060,0,0,0.0
+Decision Tree,5,Sample_001,0,0,0.0
+Decision Tree,1,Sample_002,1,1,1.0
+Decision Tree,3,Sample_003,0,0,0.0
+Decision Tree,4,Sample_004,0,0,0.0
+Decision Tree,3,Sample_005,0,0,0.0
+Decision Tree,2,Sample_006,0,0,0.0
+Decision Tree,2,Sample_007,0,0,0.0
+Decision Tree,1,Sample_008,1,1,1.0
+Decision Tree,4,Sample_009,1,1,1.0
+Decision Tree,5,Sample_010,1,1,1.0
+Decision Tree,3,Sample_011,1,1,1.0
+Decision Tree,5,Sample_012,0,0,0.0
+Decision Tree,2,Sample_013,1,1,1.0
+Decision Tree,5,Sample_014,0,0,0.5
+Decision Tree,3,Sample_015,0,0,0.0
+Decision Tree,4,Sample_016,1,1,1.0
+Decision Tree,2,Sample_017,1,1,1.0
+Decision Tree,1,Sample_018,0,0,0.0
+Decision Tree,3,Sample_019,1,1,1.0
+Decision Tree,5,Sample_020,1,1,1.0
+Decision Tree,5,Sample_021,1,1,1.0
+Decision Tree,4,Sample_022,1,1,1.0
+Decision Tree,3,Sample_023,1,1,1.0
+Decision Tree,1,Sample_024,0,0,0.0
+Decision Tree,3,Sample_025,0,0,0.0
+Decision Tree,1,Sample_026,0,0,0.0
+Decision Tree,1,Sample_027,1,1,1.0
+Decision Tree,3,Sample_028,0,0,0.0
+Decision Tree,1,Sample_029,1,1,1.0
+Decision Tree,2,Sample_030,0,0,0.0
+Decision Tree,3,Sample_031,1,1,1.0
+Decision Tree,4,Sample_032,0,0,0.5
+Decision Tree,1,Sample_033,0,0,0.0
+Decision Tree,1,Sample_034,0,0,0.0
+Decision Tree,2,Sample_035,1,1,1.0
+Decision Tree,2,Sample_036,1,1,1.0
+Decision Tree,5,Sample_037,0,0,0.0
+Decision Tree,4,Sample_038,1,1,1.0
+Decision Tree,1,Sample_039,1,0,0.0
+Decision Tree,1,Sample_040,0,0,0.0
+Decision Tree,1,Sample_041,1,1,1.0
+Decision Tree,4,Sample_042,0,0,0.0
+Decision Tree,4,Sample_043,1,1,1.0
+Decision Tree,2,Sample_044,1,1,1.0
+Decision Tree,5,Sample_045,0,0,0.5
+Decision Tree,4,Sample_046,0,0,0.0
+Decision Tree,4,Sample_047,1,1,1.0
+Decision Tree,5,Sample_048,0,0,0.0
+Decision Tree,5,Sample_049,1,1,1.0
+Decision Tree,3,Sample_050,1,1,1.0
+Decision Tree,4,Sample_051,0,0,0.0
+Decision Tree,3,Sample_052,1,1,1.0
+Decision Tree,2,Sample_053,0,0,0.0
+Decision Tree,5,Sample_054,1,1,1.0
+Decision Tree,2,Sample_055,0,0,0.0
+Decision Tree,5,Sample_056,1,1,1.0
+Decision Tree,2,Sample_057,1,0,0.0
+Decision Tree,3,Sample_058,0,1,1.0
+Decision Tree,4,Sample_059,0,0,0.0
+Decision Tree,2,Sample_060,0,0,0.0
+Gaussian Naive Bayes,5,Sample_001,0,0,1.5959085885170612e-18
+Gaussian Naive Bayes,1,Sample_002,1,0,0.00018873264627026045
+Gaussian Naive Bayes,3,Sample_003,0,0,5.5877945922209275e-18
+Gaussian Naive Bayes,4,Sample_004,0,0,3.604476213960149e-15
+Gaussian Naive Bayes,3,Sample_005,0,0,6.52428668961294e-17
+Gaussian Naive Bayes,2,Sample_006,0,0,4.72098992356192e-23
+Gaussian Naive Bayes,2,Sample_007,0,0,9.79629393373325e-23
+Gaussian Naive Bayes,1,Sample_008,1,1,1.0
+Gaussian Naive Bayes,4,Sample_009,1,1,1.0
+Gaussian Naive Bayes,5,Sample_010,1,1,1.0
+Gaussian Naive Bayes,3,Sample_011,1,1,1.0
+Gaussian Naive Bayes,5,Sample_012,0,0,6.112699000467665e-21
+Gaussian Naive Bayes,2,Sample_013,1,1,1.0
+Gaussian Naive Bayes,5,Sample_014,0,0,2.1542922317256196e-14
+Gaussian Naive Bayes,3,Sample_015,0,0,3.915780804113692e-15
+Gaussian Naive Bayes,4,Sample_016,1,1,1.0
+Gaussian Naive Bayes,2,Sample_017,1,1,1.0
+Gaussian Naive Bayes,1,Sample_018,0,0,5.91682743753313e-28
+Gaussian Naive Bayes,3,Sample_019,1,1,1.0
+Gaussian Naive Bayes,5,Sample_020,1,1,1.0
+Gaussian Naive Bayes,5,Sample_021,1,1,1.0
+Gaussian Naive Bayes,4,Sample_022,1,1,1.0
+Gaussian Naive Bayes,3,Sample_023,1,1,1.0
+Gaussian Naive Bayes,1,Sample_024,0,0,5.755197168054293e-23
+Gaussian Naive Bayes,3,Sample_025,0,0,7.736920988354192e-24
+Gaussian Naive Bayes,1,Sample_026,0,0,1.466115001955501e-22
+Gaussian Naive Bayes,1,Sample_027,1,1,1.0
+Gaussian Naive Bayes,3,Sample_028,0,0,1.8178360140796722e-20
+Gaussian Naive Bayes,1,Sample_029,1,1,1.0
+Gaussian Naive Bayes,2,Sample_030,0,0,5.7655797934976626e-24
+Gaussian Naive Bayes,3,Sample_031,1,1,1.0
+Gaussian Naive Bayes,4,Sample_032,0,0,7.967019386492616e-22
+Gaussian Naive Bayes,1,Sample_033,0,0,4.169617424361996e-25
+Gaussian Naive Bayes,1,Sample_034,0,0,5.345485522861889e-21
+Gaussian Naive Bayes,2,Sample_035,1,1,1.0
+Gaussian Naive Bayes,2,Sample_036,1,1,1.0
+Gaussian Naive Bayes,5,Sample_037,0,0,4.360718631885805e-21
+Gaussian Naive Bayes,4,Sample_038,1,1,1.0
+Gaussian Naive Bayes,1,Sample_039,1,0,1.5068135531218734e-22
+Gaussian Naive Bayes,1,Sample_040,0,0,1.536858481879286e-22
+Gaussian Naive Bayes,1,Sample_041,1,1,1.0
+Gaussian Naive Bayes,4,Sample_042,0,0,4.7764039070196477e-17
+Gaussian Naive Bayes,4,Sample_043,1,1,1.0
+Gaussian Naive Bayes,2,Sample_044,1,1,1.0
+Gaussian Naive Bayes,5,Sample_045,0,0,1.9838659807471307e-11
+Gaussian Naive Bayes,4,Sample_046,0,0,4.3282984652791883e-19
+Gaussian Naive Bayes,4,Sample_047,1,1,1.0
+Gaussian Naive Bayes,5,Sample_048,0,0,9.891054775351137e-17
+Gaussian Naive Bayes,5,Sample_049,1,1,1.0
+Gaussian Naive Bayes,3,Sample_050,1,1,1.0
+Gaussian Naive Bayes,4,Sample_051,0,0,1.1915985165898748e-15
+Gaussian Naive Bayes,3,Sample_052,1,1,1.0
+Gaussian Naive Bayes,2,Sample_053,0,0,1.0900353534505963e-22
+Gaussian Naive Bayes,5,Sample_054,1,1,1.0
+Gaussian Naive Bayes,2,Sample_055,0,0,2.358444959137914e-17
+Gaussian Naive Bayes,5,Sample_056,1,1,1.0
+Gaussian Naive Bayes,2,Sample_057,1,0,3.2303603611285368e-12
+Gaussian Naive Bayes,3,Sample_058,0,0,6.232062316384195e-16
+Gaussian Naive Bayes,4,Sample_059,0,0,7.336225826920627e-19
+Gaussian Naive Bayes,2,Sample_060,0,0,2.005977945432085e-23
