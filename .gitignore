@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.DS_Store
+.ipynb_checkpoints/
+# Large, sensitive or non-public sequencing datasets
+*.fastq
+*.fastq.gz
+*.bam
+*.bai
+*.cram
+*.vcf.gz
+# Keep only explicitly reviewed public examples in data/
+data/*
+!data/example_gene_counts.tsv
+!data/example_metadata.csv
