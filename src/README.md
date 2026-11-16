@@ -35,3 +35,9 @@ The main script executes the following steps sequentially:
 The saved model can subsequently be loaded using `predict.py` to generate predictions on compatible RNA-seq datasets.
 
 **Note:** The example dataset and its generated outputs are synthetic demonstrations. Results from real biological datasets require separate interpretation and validation.
+
+| Script                | Purpose                                        | When to Run              |
+| --------------------- | ---------------------------------------------- | ------------------------ |
+| `train_models.py`     | Compares seven ML algorithms                   | During model development |
+| `refit_best_model.py` | Retrains and saves the selected best model     | After model comparison   |
+| `predict.py`          | Loads the saved model and predicts new samples | Whenever new data arrive |
