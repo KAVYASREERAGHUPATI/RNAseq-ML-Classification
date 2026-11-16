@@ -1,0 +1,13 @@
+{
+  "selected_model": "XGBoost",
+  "outer_cv_balanced_accuracy": 0.9666666666666668,
+  "full_data_tuning_best_parameters": {
+    "model__max_depth": 2,
+    "model__n_estimators": 20,
+    "select__k": 20
+  },
+  "full_data_inner_cv_balanced_accuracy": 0.9642857142857143,
+  "training_samples": 60,
+  "input_genes": 150,
+  "note": "Refit on all available labeled samples; no independent test performance is claimed."
+}
